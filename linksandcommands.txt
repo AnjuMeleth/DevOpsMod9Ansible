@@ -67,6 +67,9 @@
   142  cd ../../../
   143  vi Devops.yml
   144  ansible-playbook Devops.yml
+  
+  #https://www.redhat.com/en/blog/integrating-ansible-jenkins-cicd-process => ansible and Jenkins
+  
 
 
 
